@@ -290,7 +290,7 @@ body {
 
 .projects__2 {
   animation-name: project2;
-  animation-duration: 6s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
   height: 30rem;
   width: 25vw;
@@ -308,19 +308,21 @@ body {
 
 @keyframes project3 {
   0% {
-    content: url("../assets/img/project/img__8.png"); }
-  25% {
-    content: url("../assets/img/project/img__9.png"); }
-  50% {
+    content: url("../assets/img/project/img__8.jpg"); }
+  20% {
+    content: url("../assets/img/project/img__9.jpg"); }
+  40% {
     content: url("../assets/img/project/img__10.png"); }
-  75% {
+  60% {
     content: url("../assets/img/project/img__11.png"); }
+  80% {
+    content: url("../assets/img/project/img__12.png"); }
   100% {
-    content: url("../assets/img/project/img__12.png"); } }
+    content: url("../assets/img/project/img__13.png"); } }
 
 .projects__3 {
   animation-name: project3;
-  animation-duration: 7s;
+  animation-duration: 15s;
   animation-iteration-count: infinite;
   height: 30rem;
   width: 25vw;

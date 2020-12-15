@@ -354,7 +354,7 @@
 
 .projects__2 {
   animation-name: project2;
-  animation-duration: 6s;
+  animation-duration: 8s;
   animation-iteration-count: infinite;
   height: 30rem;
   width: 25vw;
@@ -375,10 +375,10 @@
 
 @keyframes project3 {
   0% {
-    content: url('../assets/img/project/img__8.png');
+    content: url('../assets/img/project/img__8.jpg');
   }
   20% {
-    content: url('../assets/img/project/img__9.png');
+    content: url('../assets/img/project/img__9.jpg');
   }
   40% {
     content: url('../assets/img/project/img__10.png');
@@ -396,7 +396,7 @@
 
 .projects__3 {
   animation-name: project3;
-  animation-duration: 7s;
+  animation-duration: 15s;
   animation-iteration-count: infinite;
   height: 30rem;
   width: 25vw;
